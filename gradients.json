@@ -1,8 +1,15 @@
 [
-    {
+  {
+        "name": "Usama",
+        "colors": ["#b856d4", "#2076c0"]
+    },
+  
+  
+  {
         "name": "Blu",
         "colors": ["#00416A", "#E4E5E6"]
     },
+  
     {
         "name": "Ver",
         "colors": ["#FFE000", "#799F0C"]
